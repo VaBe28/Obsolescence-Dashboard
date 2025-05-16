@@ -6,7 +6,6 @@ A Power BI dashboard that analyzes inventory obsolescence using operational SAP 
 
 ---
 
-
 ## Preview
 
 ![Obsolescence Dashboard](Obsolescence%20Dashboard.png)
@@ -55,7 +54,7 @@ These thresholds are implemented with DAX calculated columns and flags.
 
 ---
 
-## 👨‍💼 Author
+##  Author
 
 **Vasco Bento**  
 Analytics & Supply Chain Optimization  
